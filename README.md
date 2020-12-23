@@ -34,7 +34,7 @@ Mobile
 
 <img src="./screenshots/404-scarecrow-mobile.png" height="375">
 
-A static 404 Not Found Page to practice responsive web design (vanilla HTML5, CSS, CSS Grid)
+A static 404 Not Found Page built for fun and to practice responsive web design using vanilla HTML5, CSS, and CSS Grid.
 
 [Live Site](https://perryfhuang.github.io/404-not-found-master/)
 
